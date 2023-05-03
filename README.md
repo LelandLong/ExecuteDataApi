@@ -6,8 +6,7 @@ Learn more about JSON by creating JSON queries and parsing the JSON responses fr
 
 #### Prerequisites
 
-This training aid assumes NO prior JavaScript knowledge.
-You do need a basic understanding of Filemaker concepts such as Tables, Fields, Layouts, Webviewers, and Scripts.
+This training aid assumes you have a basic understanding of FileMaker concepts such as Tables, Fields, Layouts, and Scripts.
 
 ![Overview image](images/Overview.png)
 
